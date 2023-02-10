@@ -1,2 +1,2 @@
 #!/bin/bash
-sign betty in
+su betty
