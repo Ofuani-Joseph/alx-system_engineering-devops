@@ -41,5 +41,5 @@ sylvain@ubuntu$ ./example.rb 127.0.0.a
 ## Files & Description
 |  S/N	|	File	|	Description	|
 |:-----:|---------------|-----------------------|
-|  1.	|[0-simply_match_school.rb](https://github.com/Dikachis/alx-system_engineering-devops/blob/main/0x06-regular_expressions/0-simply_match_school.rb) | Using the project instructions, create a Ruby script that accepts one argument and pass it to a regular expression matching method. The regular expression must match ``School`` |
-|  2.   |[1-repetition_token_0.rb](https://github.com/Dikachis/alx-system_engineering-devops/blob/main/0x06-regular_expressions/1-repetition_token_0.rb) | Using the project instructions, create a Ruby script that accepts one argument and pass it to a regular expression matching method.  |
+|  1.	|[0-simply_match_school.rb](https://github.com/Ofuani-Joseph/alx-system_engineering-devops/blob/main/0x06-regular_expressions/0-simply_match_school.rb) | Using the project instructions, create a Ruby script that accepts one argument and pass it to a regular expression matching method. The regular expression must match ``School`` |
+|  2.   |[1-repetition_token_0.rb](https://github.com/Ofuani-Joseph/alx-system_engineering-devops/blob/main/0x06-regular_expressions/1-repetition_token_0.rb) | Using the project instructions, create a Ruby script that accepts one argument and pass it to a regular expression matching method.  |
